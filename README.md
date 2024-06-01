@@ -1,4 +1,4 @@
-# foodforum
+# Food Forum
 
 https://foodforum-raykim.netlify.app
 
